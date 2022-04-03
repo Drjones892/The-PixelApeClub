@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA322c583f22bD0239F80e757E8aB37b4C1A3a31d",
+  "SCAN_LINK": "https://bscscan.com/address/0xA322c583f22bD0239F80e757E8aB37b4C1A3a31d",
+  "NETWORK": {
+    "NAME": "Binance",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "The Pixel Ape Club",
+  "SYMBOL": "PAC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
